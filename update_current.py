@@ -33,6 +33,13 @@ with open("./README.md", "w", encoding="utf-8") as fp:
     fp.write(spicy)
 print("* Cheese merged successfully")
 
+# Update git config
+if os.system("git config --global user.email"): # Non-zero status code
+    os.system("git config --global user.email soup-bot@harakirimail.com")
+if os.system("git config --global user.name"):
+    os.system("git config --global user.name soup-bot")
+
+# Merge soup with cloud soup
 os.system("git add README.md")
 os.system(f'git commit -m "{commitmsg}"')
 os.system("git push origin main")
