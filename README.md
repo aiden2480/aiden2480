@@ -4,5 +4,5 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-This should be updated *soon:tm:*
+1. ❗️ Opened issue [#1251](https://github.com/spotDL/spotify-downloader/issues/1251) in [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)
 <!--END_SECTION:activity-->
