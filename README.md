@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiden2480&theme=gruvbox" alt="aiden2480" /></a> </p>
 
-- 🔭 I’m currently working on <!--START_SECTION:current-->[spotisync](https://github.com/aiden2480/spotisync)<!--END_SECTION:current-->
+- 🔭 I’m currently working on <!--START_SECTION:current-->[aiden2480](https://github.com/aiden2480/aiden2480)<!--END_SECTION:current-->
 
 - 🌱 I’m currently learning **GitHub workflows and automation**
 
