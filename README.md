@@ -21,4 +21,4 @@
 ### :bar_chart: Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden2480&show_icons=true&theme=gruvbox)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=aiden2480&theme=gruvbox&layout=compact)
-<!--![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6662308e-9ed9-44c5-b0dd-3685acd8893a&theme=gruvbox&layout=compact)-->
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6662308e-9ed9-44c5-b0dd-3685acd8893a&theme=gruvbox&layout=compact)
