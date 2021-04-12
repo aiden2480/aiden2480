@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1251](https://github.com/spotDL/spotify-downloader/issues/1251) in [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)
+1. 🎉 Merged PR [#1](https://github.com/aiden2480/sleuth/pull/1) in [aiden2480/sleuth](https://github.com/aiden2480/sleuth)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
