@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiden2480&theme=gruvbox" alt="aiden2480" /></a> </p>
 
-- 🔭 I’m currently working on <!--START_SECTION:current-->[binary-puzzle](https://github.com/aiden2480/binary-puzzle)<!--END_SECTION:current-->
+- 🔭 I’m currently working on <!--START_SECTION:current-->[A2-UniTech-BinaryPuzzle](https://github.com/aiden2480/A2-UniTech-BinaryPuzzle)<!--END_SECTION:current-->
 
 - 🌱 I’m currently learning **GitHub workflows and automation**
 
