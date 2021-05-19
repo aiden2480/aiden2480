@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aiden2480/binary-puzzle/pull/2) in [aiden2480/binary-puzzle](https://github.com/aiden2480/binary-puzzle)
+1. 🎉 Merged PR [#21](https://github.com/aiden2480/A2-UniTech-BinaryPuzzle/pull/21) in [aiden2480/A2-UniTech-BinaryPuzzle](https://github.com/aiden2480/A2-UniTech-BinaryPuzzle)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
