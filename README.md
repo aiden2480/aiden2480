@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/aiden2480/A2-UniTech-BinaryPuzzle/pull/21) in [aiden2480/A2-UniTech-BinaryPuzzle](https://github.com/aiden2480/A2-UniTech-BinaryPuzzle)
+1. 💪 Opened PR [#1289](https://github.com/spotDL/spotify-downloader/pull/1289) in [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
