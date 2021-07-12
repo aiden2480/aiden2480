@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <!--START_SECTION:current-->[kanjithing](https://github.com/aiden2480/kanjithing)<!--END_SECTION:current-->
 
-- 🌱 I’m currently learning **GitHub workflows and automation**
+- 🌱 I’m currently learning **JavaScript listeners and how to make a google chrome extension**
 
 - 📫 How to reach me **aidzman#2793**
 
