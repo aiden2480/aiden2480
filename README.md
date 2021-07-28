@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/aiden2480/savage-cabbage/pull/4) in [aiden2480/savage-cabbage](https://github.com/aiden2480/savage-cabbage)
+1. 🗣 Commented on [#1](https://github.com/aiden2480/kanjithing/issues/1) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
