@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/aiden2480/12A1-PizzaApp/issues/1) in [aiden2480/12A1-PizzaApp](https://github.com/aiden2480/12A1-PizzaApp)
+1. 🗣 Commented on [#1](https://github.com/aiden2480/12A1-PizzaApp/issues/1) in [aiden2480/12A1-PizzaApp](https://github.com/aiden2480/12A1-PizzaApp)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
