@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Gimpii/PizzaProgram/pull/1) in [Gimpii/PizzaProgram](https://github.com/Gimpii/PizzaProgram)
+1. 💪 Opened PR [#2](https://github.com/aiden2480/12A1-PizzaApp/pull/2) in [aiden2480/12A1-PizzaApp](https://github.com/aiden2480/12A1-PizzaApp)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
