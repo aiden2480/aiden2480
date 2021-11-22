@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/AstonBailey-Fong/12PizzaA1-redone/pull/2) in [AstonBailey-Fong/12PizzaA1-redone](https://github.com/AstonBailey-Fong/12PizzaA1-redone)
+1. 💪 Opened PR [#6](https://github.com/aiden2480/PizzaApp/pull/6) in [aiden2480/PizzaApp](https://github.com/aiden2480/PizzaApp)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
