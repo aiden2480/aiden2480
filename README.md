@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/aiden2480/PizzaApp/pull/6) in [aiden2480/PizzaApp](https://github.com/aiden2480/PizzaApp)
+1. ❌ Closed PR [#7](https://github.com/aiden2480/PizzaApp/pull/7) in [aiden2480/PizzaApp](https://github.com/aiden2480/PizzaApp)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
