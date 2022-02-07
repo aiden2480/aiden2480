@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/aiden2480/kanjithing/issues/16) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
+1. 🗣 Commented on [#16](https://github.com/aiden2480/kanjithing/issues/16) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
