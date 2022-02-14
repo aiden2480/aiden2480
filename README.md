@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/aiden2480/kanjithing/issues/18) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
+1. ❗️ Closed issue [#15](https://github.com/aiden2480/kanjithing/issues/15) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
