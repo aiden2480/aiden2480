@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/aiden2480/kanjithing/issues/18) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
+1. ❗️ Opened issue [#35](https://github.com/NomisNostab/Topo/issues/35) in [NomisNostab/Topo](https://github.com/NomisNostab/Topo)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
