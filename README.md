@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/NomisNostab/Topo/issues/35) in [NomisNostab/Topo](https://github.com/NomisNostab/Topo)
+1. 🎉 Merged PR [#20](https://github.com/aiden2480/kanjithing/pull/20) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
