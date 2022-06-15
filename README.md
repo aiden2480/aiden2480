@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/aiden2480/kanjithing/issues/24) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
+1. 💪 Opened PR [#1](https://github.com/AgentNoraab/Portfolio/pull/1) in [AgentNoraab/Portfolio](https://github.com/AgentNoraab/Portfolio)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
