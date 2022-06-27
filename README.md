@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/baxttter/baxtersessentialcolourtools/pull/6) in [baxttter/baxtersessentialcolourtools](https://github.com/baxttter/baxtersessentialcolourtools)
+1. ❗️ Closed issue [#24](https://github.com/aiden2480/kanjithing/issues/24) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
