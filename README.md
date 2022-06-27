@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AgentNoraab/Portfolio/pull/1) in [AgentNoraab/Portfolio](https://github.com/AgentNoraab/Portfolio)
+1. 💪 Opened PR [#6](https://github.com/baxttter/baxtersessentialcolourtools/pull/6) in [baxttter/baxtersessentialcolourtools](https://github.com/baxttter/baxtersessentialcolourtools)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
