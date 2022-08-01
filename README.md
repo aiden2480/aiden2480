@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/aiden2480/kanjithing/pull/26) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
+1. ❗️ Closed issue [#1](https://github.com/aiden2480/crest/issues/1) in [aiden2480/crest](https://github.com/aiden2480/crest)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
