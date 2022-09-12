@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/aiden2480/crest/issues/1) in [aiden2480/crest](https://github.com/aiden2480/crest)
+1. 💪 Opened PR [#7](https://github.com/baxttter/baxtersessentialcolourtools/pull/7) in [baxttter/baxtersessentialcolourtools](https://github.com/baxttter/baxtersessentialcolourtools)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
