@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aiden2480/scouts-training-bot/pull/1) in [aiden2480/scouts-training-bot](https://github.com/aiden2480/scouts-training-bot)
+1. 💪 Opened PR [#1](https://github.com/aiden2480/dotnet-actions-test/pull/1) in [aiden2480/dotnet-actions-test](https://github.com/aiden2480/dotnet-actions-test)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
