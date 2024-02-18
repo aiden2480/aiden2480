@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/aiden2480/dotnet-actions-test/pull/5) in [aiden2480/dotnet-actions-test](https://github.com/aiden2480/dotnet-actions-test)
+1. 🎉 Merged PR [#4](https://github.com/aiden2480/dotnet-actions-test/pull/4) in [aiden2480/dotnet-actions-test](https://github.com/aiden2480/dotnet-actions-test)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
