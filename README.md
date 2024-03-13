@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/aiden2480/crest/pull/5) in [aiden2480/crest](https://github.com/aiden2480/crest)
+1. 💪 Opened PR [#8](https://github.com/aiden2480/crest/pull/8) in [aiden2480/crest](https://github.com/aiden2480/crest)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
