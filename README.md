@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/aiden2480/crest/pull/8) in [aiden2480/crest](https://github.com/aiden2480/crest)
+1. ❗ Opened issue [#16](https://github.com/kanjialive/kanji-web-app/issues/16) in [kanjialive/kanji-web-app](https://github.com/kanjialive/kanji-web-app)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
