@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/kanjialive/kanji-web-app/issues/16) in [kanjialive/kanji-web-app](https://github.com/kanjialive/kanji-web-app)
+1. 💪 Opened PR [#27](https://github.com/aiden2480/kanjithing/pull/27) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
