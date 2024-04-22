@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/aiden2480/kanjithing/pull/27) in [aiden2480/kanjithing](https://github.com/aiden2480/kanjithing)
+1. ❗ Opened issue [#383](https://github.com/jstockwin/py-pdf-parser/issues/383) in [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
