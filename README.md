@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#385](https://github.com/jstockwin/py-pdf-parser/pull/385) in [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)
+1. ❗ Opened issue [#386](https://github.com/jstockwin/py-pdf-parser/issues/386) in [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
