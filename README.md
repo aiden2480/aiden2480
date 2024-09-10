@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/AgentNoraab/Portfolio/pull/1) in [AgentNoraab/Portfolio](https://github.com/AgentNoraab/Portfolio)
+1. ❌ Closed PR [#182](https://github.com/NomisNostab/Topo-Blazor/pull/182) in [NomisNostab/Topo-Blazor](https://github.com/NomisNostab/Topo-Blazor)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
