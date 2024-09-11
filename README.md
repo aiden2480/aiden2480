@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiden2480&theme=gruvbox" alt="aiden2480" /></a> </p>
 
-- 🔭 I’m currently working on <!--START_SECTION:current-->[Topo-Blazor](https://github.com/aiden2480/Topo-Blazor)<!--END_SECTION:current-->
+- 🔭 I’m currently working on <!--START_SECTION:current-->[scouts-training-bot](https://github.com/aiden2480/scouts-training-bot)<!--END_SECTION:current-->
 
 - 🌱 I’m currently learning **JavaScript listeners and how to make a google chrome extension**
 
