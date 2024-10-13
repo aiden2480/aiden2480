@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/awesome-webextension/webextension-store-meta/issues/8) in [awesome-webextension/webextension-store-meta](https://github.com/awesome-webextension/webextension-store-meta)
+1. ❗ Opened issue [#10611](https://github.com/badges/shields/issues/10611) in [badges/shields](https://github.com/badges/shields)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
