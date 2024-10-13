@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/aiden2480/Topo-Blazor/pull/1) in [aiden2480/Topo-Blazor](https://github.com/aiden2480/Topo-Blazor)
+1. ❗ Opened issue [#8](https://github.com/awesome-webextension/webextension-store-meta/issues/8) in [awesome-webextension/webextension-store-meta](https://github.com/awesome-webextension/webextension-store-meta)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
