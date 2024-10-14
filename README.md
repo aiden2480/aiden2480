@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10611](https://github.com/badges/shields/issues/10611#issuecomment-2410182560) in [badges/shields](https://github.com/badges/shields)
+1. 💪 Opened PR [#10613](https://github.com/badges/shields/pull/10613) in [badges/shields](https://github.com/badges/shields)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
