@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10613](https://github.com/badges/shields/pull/10613) in [badges/shields](https://github.com/badges/shields)
+1. 🎉 Merged PR [#28](https://github.com/aiden2480/summit-gear/pull/28) in [aiden2480/summit-gear](https://github.com/aiden2480/summit-gear)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
