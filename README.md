@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/aiden2480/summit-gear/pull/28) in [aiden2480/summit-gear](https://github.com/aiden2480/summit-gear)
+1. 🎉 Merged PR [#28](https://github.com/David-S-22/ASD-Spring-2026/pull/28) in [David-S-22/ASD-Spring-2026](https://github.com/David-S-22/ASD-Spring-2026)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
