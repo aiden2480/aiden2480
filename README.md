@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/David-S-22/ASD-Spring-2026/pull/29) in [David-S-22/ASD-Spring-2026](https://github.com/David-S-22/ASD-Spring-2026)
+1. 🎉 Merged PR [#35](https://github.com/David-S-22/ASD-Spring-2026/pull/35) in [David-S-22/ASD-Spring-2026](https://github.com/David-S-22/ASD-Spring-2026)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
