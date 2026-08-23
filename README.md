@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/David-S-22/ASD-Spring-2026/pull/38) in [David-S-22/ASD-Spring-2026](https://github.com/David-S-22/ASD-Spring-2026)
+1. 💪 Opened PR [#39](https://github.com/David-S-22/ASD-Spring-2026/pull/39) in [David-S-22/ASD-Spring-2026](https://github.com/David-S-22/ASD-Spring-2026)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
