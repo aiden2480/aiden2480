@@ -15,7 +15,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/David-S-22/Tally/pull/125) in [David-S-22/Tally](https://github.com/David-S-22/Tally)
+1. 🎉 Merged PR [#166](https://github.com/David-S-22/Tally/pull/166) in [David-S-22/Tally](https://github.com/David-S-22/Tally)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Statistics
